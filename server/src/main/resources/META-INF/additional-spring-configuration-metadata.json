@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.sql.console.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.sql.console.enabled'"
+  },
+  {
+    "name": "Debug",
+    "type": "java.lang.String",
+    "description": "A description for 'Debug'"
+  }
+]}
